@@ -1,0 +1,1 @@
+This project is a simple task list application for managing personal tasks
